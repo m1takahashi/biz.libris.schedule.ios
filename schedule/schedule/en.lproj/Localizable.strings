@@ -1,0 +1,201 @@
+// LeftMenu
+"menu"  = "Menu";
+
+"today"     = "Today";
+"calender"  = "Calender";
+"reminder"  = "ToDo";
+"note"      = "Note";
+
+"theme"                     = "Theme";
+"setting"                   = "Setting";
+"setting_theme"             = "Theme";
+"setting_theme_image"       = "Image";
+"setting_theme_color"       = "Color";
+"setting_theme_custom"      = "Custom";
+"setting_theme_custom_nav_bar_color" = "Navigation Bar Color";
+"setting_theme_custom_nav_text_color" = "Navigation Text Color";
+"setting_cal"               = "Calender Setting";
+"setting_cal_display_list"  = "Calender List";
+"setting_cal_holiday"       = "Holiday";
+"setting_cal_start_week"    = "Start Week";
+"setting_cal_six_labels"    = "Japanise calender's six labels";
+"setting_cal_start_page"    = "Start Page";
+"setting_cal_scroll"        = "Month Scroll";
+"setting_cal_scroll_week"   = "Week Scroll";
+"setting_other"             = "Other";
+"setting_other_recommend"   = "Recommend";
+"setting_other_review"      = "Review";
+"setting_other_ourapps"     = "Our Apps";
+"setting_other_version"     = "Version";
+"setting_license"           = "Open Source Licenses";
+// Setting Start Page
+"start_page_section_mode"           = "Start Page";
+"start_page_section_mode_calendar"  = "Calendar";
+"start_page_section_mode_reminder"  = "ToDo";
+"start_page_section_mode_note"      = "Note";
+
+//-- Reminder --//
+"reminder_calenders"                = "List";
+"reminder_calendar_add"             = "New List";
+"reminder_calendar_details"         = "Details";
+"reminder_calendar_close"           = "Close";
+"reminder_button_positive"          = "OK";
+"reminder_button_cancel"            = "Cancel";
+"reminder_item_add"                 = "New Reminder";
+"reminder_item_details"             = "Details";
+"reminder_item_close"               = "Close";
+"reminder_item_title"               = "Title";
+"reminder_item_remind_me_on_a_day"  = "Alarm";
+"reminder_item_priority"            = "Priority";
+"reminder_item_list"                = "List";
+"reminder_item_remove"              = "Remove";
+// Default List & Item
+"reminder_default_list_title"       = "Reminder";
+"reminder_default_item_title"       = "Remind Me";
+
+"reminder_priority_none"    = "None";
+"reminder_priority_low"     = "!";
+"reminder_priority_normal"  = "!!";
+"reminder_priority_high"    = "!!!";
+
+//-- Note --//
+"note_basic_cancel"     = "Cancel";
+"note_list"             = "Note";
+"note_list_close"       = "Close";
+"note_list_add"         = "New Note";
+"note_list_placeholder" = "Title";
+"note_share"            = "[Share]";
+"msg_note_length"       = "Please input Title.";
+"msg_note_page_title_length" = "Please input Title.";
+// Page
+"note_page"                     = "Page";
+"note_page_placeholder_title"   = "Title";
+"note_page_placeholder_body"    = "Body";
+"note_page_delete"              = "Delete";
+"note_page_submitdate_format"   = "Create %@";
+"note_page_updatedate_format"   = "Update %@";
+// Sort
+"note_sort_title"   = "Title";
+"note_sort_submit"  = "Create";
+"note_sort_update"  = "Update";
+"note_sort_title_asc"   = "Title";
+"note_sort_submit_desc" = "CreateDate Descending";
+"note_sort_submit_asc"  = "CreateDate Ascending";
+"note_sort_update_desc" = "UpdateDate Descending";
+"note_sort_update_asc"  = "UpdateDate Ascending";
+
+// Start Page
+"start_page_month"  = "Month";
+"start_page_week"   = "Week";
+"start_page_day"    = "Day";
+
+// Scroll Direction
+"scroll_direction_vertical" = "Vertical";
+"scroll_direction_horizontal" = "Horizontal";
+
+// EULA
+"eula_title"                = "EULA";
+"eula_agree_button"         = "Agree";
+
+// TabBar
+"month"         = "Month";
+"week"          = "Week";
+"day"           = "Day";
+"this_month"    = "This Month";
+"this_week"     = "This Week";
+"today"         = "Today";
+
+// Button
+"btn_apply"     = "Apply";
+"btn_save"      = "Save";
+"btn_cancel"    = "Cancel";
+
+// Day of The week
+"sun"   = "Sun";
+"mon"   = "Mon";
+"tue"   = "Tue";
+"wed"   = "Wed";
+"thu"   = "Thu";
+"fri"   = "Fri";
+"sat"   = "Sat";
+
+// Day of The week (Full)
+"monday"    = "Monday";
+"tuesday"   = "Tuesday";
+"wednesday" = "Wednesday";
+"thursday"  = "Thursday";
+"friday"    = "Friday";
+"saturday"  = "Saturday";
+"sunday"    = "Sunday";
+
+// Theme Color
+"navy"      = "Navy";
+"blue"      = "Blue";
+"skyblue"   = "SkyBlue";
+"green"     = "Green";
+"yellow"    = "Yellow";
+"orange"    = "Orange";
+"brown"     = "Brown";
+"red"       = "Red";
+"pink"      = "Pink";
+"purple"    = "Purple";
+"black"     = "Black";
+
+// Theme Image
+"heart"             = "Heart";
+"dots"              = "Dots";
+"pencil"            = "Pencil";
+"star"              = "Star";
+"valentine_red"     = "Valentine Red";
+"border"            = "Border";
+"wave_pattern"      = "Wave Pattern";
+"japanese_pattern"  = "Japanese Pattern";
+"wave"              = "Wave";
+"network"           = "Network";
+"steel"             = "Steel";
+"zodiac_1"          = "Zodiac 1";
+"zodiac_2"          = "Zodiac 2";
+"zodiac_3"          = "Zodiac 3";
+
+// Calendar Holiday
+"cal_holiday_select"    = "Holiday Type";
+"cal_holiday_default"   = "Default(Sunday, Monday)";
+"cal_holiday_custom"    = "Custom(Select the Holiday)";
+"cal_allow_modify"      = "My Calendar";
+"cal_read_only"         = "Other(Read Only)";
+
+// Message
+"msg_save_success"              = "Save Success.";
+"msg_reminder_list_more_one"    = "List is required more than one.";
+"msg_reminder_list_create"      = "List not found, Please create List on Bottom Menu.";
+"msg_reminder_list_saved"       = "Saved.";
+"msg_reminder_length"           = "Please enter in 1 to 30 characters";
+"msg_reminder_privacy"          = "Please check your Privacy Setting.";
+"msg_reminder_restart"          = "Save Error, Please restart this App.";
+"msg_note_list_create"          = "\"Note\" not found, Please create \"Note\" on Bottom Menu.";
+"msg_note_list_more_one"        = "Note is required more than one.";
+
+// Privacy Alert
+"privacy_alert_title"   = "Please check your Setting";
+"privacy_alert_message" = "Settings -> Privacy -> Calendars -> SmileDays";
+"privacy_alert_message_reminder" = "Settings -> Privacy -> Reminders -> SmileDays";
+
+// Invite Friend
+"mail_subject"  = "Cool Schedule app, SmileDays.";
+"mail_body"     = "";
+
+//-- Coach Marks --//
+"caption_month_menu"    = "Menu, Change Theme and, Calendar settings.";
+"caption_month_scroll"  = "↑ ↓ Up and Down scroll";
+"caption_week_scroll"   = "← → Left & Right scroll";
+"caption_day_scroll"    = "← → Left & Right scroll";
+// Reminder
+"caption_reminder_1"    = "☆☆How to use☆☆ \n\nAdd New Reminder.";
+"caption_reminder_2"    = "Incomplete or Completed.";
+"caption_reminder_3"    = "Edit Reminder Detail.";
+"caption_reminder_4"    = "Change Display 'Completed' reminder.";
+"caption_reminder_5"    = "Manage Reminder List.";
+// Note
+"caption_note_1"    = "☆☆How to use☆☆ \n\nCreate and Edit \"Note\".";
+"caption_note_2"    = "Create New \"Page\".";
+"caption_note_3"    = "Sort Pages.";

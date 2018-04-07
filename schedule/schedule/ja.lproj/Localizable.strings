@@ -1,0 +1,202 @@
+// LeftMenu
+"menu"  = "メニュー";
+
+"today"     = "今日";
+"calender"  = "カレンダー";
+"reminder"  = "ToDo";
+"note"      = "ノート";
+
+"theme"                     = "着せ替え";
+"setting"                   = "設定";
+"setting_theme"             = "着せ替え設定";
+"setting_theme_image"       = "画像";
+"setting_theme_color"       = "カラー";
+"setting_theme_custom"      = "カスタム";
+"setting_theme_custom_nav_bar_color" = "上部バー 背景色";
+"setting_theme_custom_nav_text_color" = "上部バー テキスト色";
+"setting_cal"               = "カレンダー設定";
+"setting_cal_display_list"  = "表示するカレンダー";
+"setting_cal_holiday"       = "休日指定";
+"setting_cal_start_week"    = "週の開始";
+"setting_cal_six_labels"    = "六曜（大安、仏滅）";
+"setting_cal_start_page"    = "スタートページ";
+"setting_cal_scroll"        = "月表示";
+"setting_cal_scroll_week"   = "週表示";
+"setting_other"             = "その他";
+"setting_other_recommend"   = "友達におしえる";
+"setting_other_review"      = "レビュー";
+"setting_other_ourapps"     = "Our Apps";
+"setting_other_version"     = "Version";
+"setting_license"           = "オープンソースライセンス";
+// Setting Start Page
+"start_page_section_mode"           = "スタートページ選択";
+"start_page_section_mode_calendar"  = "カレンダー";
+"start_page_section_mode_reminder"  = "ToDo";
+"start_page_section_mode_note"      = "ノート";
+
+//-- Reminder --//
+"reminder_calenders"                = "リスト";
+"reminder_calendar_add"             = "新規リスト";
+"reminder_calendar_details"         = "詳細";
+"reminder_calendar_close"           = "閉じる";
+"reminder_item_add"                 = "追加";
+"reminder_item_details"             = "詳細";
+"reminder_item_close"               = "閉じる";
+"reminder_button_positive"          = "OK";
+"reminder_button_cancel"            = "Cancel";
+"reminder_item_title"               = "やること";
+"reminder_item_remind_me_on_a_day"  = "アラーム";
+"reminder_item_priority"            = "優先順位";
+"reminder_item_list"                = "リスト";
+"reminder_item_remove"              = "削除";
+// Default List & Item
+"reminder_default_list_title"       = "ToDo";
+"reminder_default_item_title"       = "やること";
+
+"reminder_priority_none"    = "なし";
+"reminder_priority_low"     = "低";
+"reminder_priority_normal"  = "中";
+"reminder_priority_high"    = "高";
+
+//-- Note --//
+"note_basic_cancel"     = "キャンセル";
+"note_list"             = "ノート";
+"note_list_close"       = "閉じる";
+"note_list_add"         = "新規ノート";
+"note_list_placeholder" = "タイトル";
+"note_share"            = "[共有]";
+"msg_note_length"       = "タイトルを入力して下さい";
+"msg_note_page_title_length" = "タイトルを入力して下さい";
+// Page
+"note_page"                     = "ページ";
+"note_page_placeholder_title"   = "タイトル";
+"note_page_placeholder_body"    = "本文";
+"note_page_delete"              = "削除";
+"note_page_submitdate_format"   = "%@ 作成";
+"note_page_updatedate_format"   = "%@ 更新";
+// Sort
+"note_sort_title"   = "タイトル";
+"note_sort_submit"  = "作成日";
+"note_sort_update"  = "更新日";
+"note_sort_title_asc"   = "タイトル順";
+"note_sort_submit_desc" = "作成日の新しい順";
+"note_sort_submit_asc"  = "作成日の古い順";
+"note_sort_update_desc" = "更新日の新しい順";
+"note_sort_update_asc"  = "更新日の古い順";
+
+// Start Page
+"start_page_month"  = "月表示";
+"start_page_week"   = "週表示";
+"start_page_day"    = "日表示";
+
+// Scroll Direction
+"scroll_direction_vertical" = "縦スクロール";
+"scroll_direction_horizontal" = "横スクロール";
+
+// EULA
+"eula_title"                = "利用規約（EULA）";
+"eula_agree_button"         = "同意します";
+
+// TabBar
+"month"         = "月";
+"week"          = "週";
+"day"           = "日";
+"this_month"    = "今月";
+"this_week"     = "今週";
+"today"         = "今日";
+
+// Button
+"btn_apply"     = "適用";
+"btn_save"      = "保存";
+"btn_cancel"    = "キャンセル";
+
+// 曜日
+"sun"   = "日";
+"mon"   = "月";
+"tue"   = "火";
+"wed"   = "水";
+"thu"   = "木";
+"fri"   = "金";
+"sat"   = "土";
+
+// Day od The week (Full)
+"monday"    = "月曜日";
+"tuesday"   = "火曜日";
+"wednesday" = "水曜日";
+"thursday"  = "木曜日";
+"friday"    = "金曜日";
+"saturday"  = "土曜日";
+"sunday"    = "日曜日";
+
+// Theme Color
+"navy"      = "ネイビー";
+"blue"      = "青";
+"skyblue"   = "スカイブルー";
+"green"     = "緑";
+"yellow"    = "黄";
+"orange"    = "オレンジ";
+"brown"     = "ブラウン";
+"red"       = "赤";
+"pink"      = "ピンク";
+"purple"    = "紫";
+"black"     = "黒";
+
+
+// Theme Image
+"heart"             = "ハート";
+"dots"              = "ドット";
+"pencil"            = "色えんぴつ";
+"star"              = "スター";
+"valentine_red"     = "バレンタイン レッド";
+"border"            = "ボーダー";
+"wave_pattern"      = "波模様";
+"japanese_pattern"  = "和柄";
+"wave"              = "ウェーブ";
+"network"           = "ネットワーク";
+"steel"             = "スチール";
+"zodiac_1"         = "干支１";
+"zodiac_2"         = "干支２";
+"zodiac_3"         = "干支３";
+
+// Calendar Holiday
+"cal_holiday_select"    = "休日";
+"cal_holiday_default"   = "土曜日・日曜日";
+"cal_holiday_custom"    = "カスタム";
+"cal_allow_modify"      = "Myカレンダー";
+"cal_read_only"         = "その他（読み込み専用）";
+
+
+// Message
+"msg_save_success"              = "保存しました";
+"msg_reminder_list_more_one"    = "リストが1つなので、削除・並び替えはできません。";
+"msg_reminder_list_create"      = "リストが見つかりません。下部メニューのリスト管理から、リストを作成して下さい。";
+"msg_reminder_list_saved"       = "保存しました。";
+"msg_reminder_length"           = "1文字以上30文字以内で入力して下さい。";
+"msg_reminder_privacy"          = "プライバシー設定を確認して下さい。";
+"msg_reminder_restart"          = "保存に失敗しました。アプリを再起動して下さい。";
+"msg_note_list_create"          = "ノートが見つかりません。下部メニューのノート管理から、ノートを作成して下さい。";
+"msg_note_list_more_one"        = "ノートが1つなので、削除・並び替えはできません。";
+
+// Invite Friend
+"mail_subject"  = "SmileDays 着せ替えカレンダーアプリ";
+"mail_body"     = "";
+
+"privacy_alert_title"   = "設定を確認して下さい。";
+"privacy_alert_message" = "設定 -> プライバシー -> カレンダー -> SmileDays";
+"privacy_alert_message_reminder" = "設定 -> プライバシー -> リマインダー -> SmileDays";
+
+//-- Coach Marks --//
+"caption_month_menu"    = "メニュー：着せ替え、カレンダー設定ができます";
+"caption_month_scroll"  = "↑ ↓ 上下スクロール";
+"caption_week_scroll"   = "← 左右スクロール →";
+"caption_day_scroll"    = "← 左右スクロール →";
+// Reminder
+"caption_reminder_1"    = "☆☆使い方☆☆ \n\nToDoを追加します。 \n\n<<タップ>>";
+"caption_reminder_2"    = "完了したらチェックします。";
+"caption_reminder_3"    = "編集(優先度の変更),削除ができます。";
+"caption_reminder_4"    = "完了済みのToDoの表示・非表示を選択します。";
+"caption_reminder_5"    = "リストの管理(追加,編集,削除,並び替え)ができます。";
+// Note
+"caption_note_1"    = "☆☆使い方☆☆ \n\nノートの作成、編集、並び替えができます。";
+"caption_note_2"    = "新しいページを作成できます。";
+"caption_note_3"    = "ページの並び替えができます。";

@@ -1,0 +1,5 @@
+platform :ios, '9.1'
+pod 'Color-Picker-for-iOS', '~> 2.0'
+pod 'MJPopupViewController'
+pod 'Toast'
+pod 'WSCoachMarksView', '~> 0.2'
